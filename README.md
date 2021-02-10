@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Henrique Ferreira</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [BifeOn](https://www.bifeon.com.br/)
+- 🔭 I’m currently not working
 
 - 🌱 I’m currently learning **analysis and development of system**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently not working
 
-- 🌱 I’m currently learning **analysis and development of system**
+- 🌱 I’m currently learning **technology in multiplatform software development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThHenrique?tab=repositories](https://github.com/ThHenrique?tab=repositories)
 
